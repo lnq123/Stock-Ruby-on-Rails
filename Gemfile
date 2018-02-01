@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
-gem 'stock_quote', '~> 1.5.2'
+gem 'stock_quote', '~> 1.5', '>= 1.5.2'
 
 gem 'devise', '~> 4.4', '>= 4.4.1'
 # Use ActiveModel has_secure_password
